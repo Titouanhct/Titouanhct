@@ -3,5 +3,5 @@ About me :
  - Currently learning at Epitech
  - Trying my best to combine Epitech and Sports
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Can somewhat code in ![image](https://github.com/user-attachments/assets/73c68116-dfdb-4364-baa2-2593fd857045)
+- Can somewhat code in C , Python , HTML/CSS.
  , 
