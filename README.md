@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Titouanhct
+- 👀 I’m currently learning C/C++ at Epitech
