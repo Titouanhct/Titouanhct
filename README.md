@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning code at Epitech <br>🌱 I’m currently learning some tek stacks such as the C, Devops, and the C++.
+🔭 I’m currently Learning code at Epitech <br>🌱 I’m currently learning some tek stacks such as the C, Devops, some cybersecurity and C++.
 
 
 # 💻 Tech Stack:
